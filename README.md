@@ -1,8 +1,6 @@
+![Banner para linkedin](https://github.com/Pierre-Mendes/First-Challenge-Bootcamp-Java-DIO/assets/63386178/da4a13ca-375c-4546-99e5-034786980e47)
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
-
-
-## Autor
+## Autor / Author
 
 - [@Pierre-Mendes](https://www.github.com/Pierre-Mendes)
 
@@ -51,7 +49,6 @@ This project marks the end of an introductory module of a bootcamp called Basic 
 However, the intention of the challenge is to test the knowledge acquired in this module with a small project executed via terminal.
 
 
-## Licença
+## Licença / License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
